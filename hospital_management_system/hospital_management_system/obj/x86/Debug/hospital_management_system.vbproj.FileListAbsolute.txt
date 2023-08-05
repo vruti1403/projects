@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.exe
+c:\users\user\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.pdb
+c:\users\user\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.xml
+c:\users\user\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.frm_login.resources
+c:\users\user\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.exe
+c:\users\user\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.xml
+c:\users\user\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.pdb
+C:\Users\User\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.dashboard.resources
+C:\Users\User\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.frm_appointment.resources
+C:\Users\User\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.frm_doctor.resources
+C:\Users\User\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.frm_patient.resources
+C:\Users\User\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.frm_payment.resources
+C:\Users\User\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.frm_pharmacy.resources
+C:\Users\User\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.frm_ward.resources
+C:\Users\User\documents\visual studio 2010\Projects\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.exe.config
+D:\hospital_management_system\hospital_management_system\bin\Debug\hospital_management_system.exe.config
+D:\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.exe
+D:\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.xml
+D:\hospital_management_system\hospital_management_system\obj\x86\Debug\hospital_management_system.pdb
